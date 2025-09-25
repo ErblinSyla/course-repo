@@ -1,4 +1,4 @@
 # course-repo
 Training repository Udemy
 
-README.md was just modified. This file was modified locally
+This line was modified manually during conflicts  resolution
